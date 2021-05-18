@@ -1,0 +1,11 @@
+$ python -m pip install --upgrade pip
+$ pip install pandas
+install cargo from https://rustup.rs/
+set path of cargo bin: C:\Users\<username>\.rustup\toolchains\stable-x86_64-pc-windows-msvc\bin
+$ pip install jupyterlab
+
+download latest dataset from https://insights.stackoverflow.com/survey
+rename it to data (50+ MB size)
+
+to start a jupyter notebook:
+$ jupyter notebook
